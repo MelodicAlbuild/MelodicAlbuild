@@ -1,5 +1,5 @@
 # Alex (MelodicAlbuild) 😃
-Developer and Designer | Community Modder | Co-Founder @ [HammerTechnik](https://github.com/HammerTechnik) | Embracing Technology | Developing the Future
+Developer and Designer | Founder and Lead Developer @ [MelodicMods](https://github.com/melodicmods) | Co-Founder @ [HammerTechnik](https://github.com/HammerTechnik) | Embracing Technology | Developing the Future
 
 ## 🧐 About
 Although I might spend 24 hours sitting at a desk working on the next mod, or my next game, I definatly spend more time working
@@ -9,6 +9,7 @@ mostly in Unity and Unreal but I have used projects like Godot before.
 ## 👯 Communities
 - Developing Bots @ [HammerTechnik](https://discord.gg/hammertechnik)
 - Making Mods for @ [Volcanoids](https://discord.gg/volcanoids)
+- Owner and Lead Developer @ [MelodicMods](https://melodicalbuild.me)
 
 ## ⚡ Technologies
 Talk to me about
