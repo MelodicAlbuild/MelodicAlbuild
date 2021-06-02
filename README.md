@@ -15,6 +15,7 @@ mostly in Unity and Unreal but I have used projects like Godot before.
 Talk to me about
 - Front-end development using **Vue, React, VanillaJS**
 - Backend development using **ASP.NET Core, Node, Express**
+- Game Development using **.NET Standard, .NET Core, C++**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
 - Desktop application development using **ASP.NET**
 - Mobile application development using **Android (Java or Kotlin), IOS (Swift)**
