@@ -13,7 +13,7 @@ mostly in Unity and Unreal but I have used projects like Godot before.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Vue, React, VanillaJS**
+- Front-end development using **Vue, React, VanillaJS, PHP**
 - Backend development using **ASP.NET Core, Node, Express**
 - Game Development using **.NET Standard, .NET Core, C++**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
@@ -25,8 +25,8 @@ Talk to me about
 ## 📫 Contact Me
 - Twitter - [@melodicalbuild](https://twitter.com/melodicalbuild)
 - Discord - MelodicAlbuild#6554
-- Blog - [Mels Blog](https://docs.melodicalbuild.me/blog)
-- Website - [MelodicAlbuild.me](https://melodicalbuild.me)
+- Blog - [Mels Blog](https://docs.melodicalbuild.com/blog)
+- Website - [MelodicAlbuild.com](https://melodicalbuild.com)
 
 ---
 ❤ Alex
