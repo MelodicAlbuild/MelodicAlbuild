@@ -1,5 +1,5 @@
 # Alex (MelodicAlbuild) 😃
-Developer and Designer | Founder and Lead Developer @ [MelodicMods](https://github.com/melodicmods) | Admin @ [Volcanoids Modding](https://github.com/VolcanoidsModding)| Team Lead @ [Elestrals](https://www.elestrals.com/) | Embracing Technology | Developing the Future
+Developer and Designer | Founder and Lead Developer @ [MelodicMods](https://github.com/melodicmods) | Admin @ [Volcanoids Modding](https://github.com/VolcanoidsModding) | Team Lead @ [Elestrals](https://www.elestrals.com/) | Embracing Technology | Developing the Future
 
 ## 🧐 About
 Although I might spend 24 hours sitting at a desk working on the next mod, or my next game, I definatly spend more time working
