@@ -1,31 +1,28 @@
 # Alex (MelodicAlbuild) 😃
-Developer and Designer | Founder and Lead Developer @ [MelodicMods](https://github.com/melodicmods) | Admin @ [Volcanoids Modding](https://github.com/VolcanoidsModding) | Team Lead @ [Elestrals](https://www.elestrals.com/) | Embracing Technology | Developing the Future
+Developer and Designer | Founder and Lead Developer @ [MelodicMods](https://github.com/melodicmods) | Admin @ [Volcanoids Modding](https://github.com/VolcanoidsModding) | Embracing Technology | Developing the Future
 
 ## 🧐 About
-Although I might spend 24 hours sitting at a desk working on the next mod, or my next game, I definatly spend more time working
-on mods then I do my own projects. I have been a web designer and builder for 7 years and got into game design 3 years ago. I work 
-mostly in Unity and Unreal but I have used projects like Godot before.
+I spend my time chronically programming on one project or another. I have had my share of experiences in C#, espeically with Unity, but I've gotten closer to .NET Core and WPF in the last couple months. It's always an adventure to find a new way to approach a project, which has turned my dream video game from Altrix to Project Oblivion to now Luminary and Starforge. I love iteration and the constant growth and change over time.
 
 ## 👯 Communities
-- Running @ [Volcanoids Modding](https://discord.gg/volcanoids)
-- Making Mods for @ [Volcanoids](https://discord.gg/volcanoids)
-- Owner and Lead Developer @ [MelodicMods](https://melodicalbuild.me)
+- Owner and Lead Developer @ [MelodicMods](https://blog.melodicalbuild.com)
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Vue, React, VanillaJS, PHP**
+- Game Engine Development using **C# and SDL2**
+- Front-end development using **NextJS, React, and C#**
 - Backend development using **ASP.NET Core, Node, Express**
 - Game Development using **.NET Standard, .NET Core, C++**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB**
-- Desktop application development using **ASP.NET**
+- Desktop application development using **C++ and ImGui**
 - Mobile application development using **Android (Java or Kotlin), IOS (Swift)**
 - Creating scalable cloud architecture using **Amazon Web Services**
 - Project Management and CD/CI using **Jenkins**
 
 ## 📫 Contact Me
 - Twitter - [@melodicalbuild](https://twitter.com/melodicalbuild)
-- Discord - MelodicAlbuild#6554
-- Blog - [Mels Blog](https://docs.melodicalbuild.com/blog)
+- Discord - @melodicalbuild
+- Blog - [Mels Blog](https://blog.melodicalbuild.com)
 - Website - [MelodicAlbuild.com](https://melodicalbuild.com)
 
 ---
